@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/kuliah/Sample_Constraint_Layout/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/kuliah/Sample_Constraint_Layout/app/src/main/res/layout/activity_lihat_data.xml" value="0.17552083333333332" />
         <entry key="..\:/kuliah/Sample_Constraint_Layout/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/kuliah/Sample_Constraint_Layout/app/src/main/res/layout/item_listview.xml" value="0.17552083333333332" />
+        <entry key="..\:/kuliah/Sample_Constraint_Layout/app/src/main/res/layout/popup_menu.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>
